@@ -1,0 +1,11 @@
+node_modules
+yarn.lock
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+
+bundle.js
